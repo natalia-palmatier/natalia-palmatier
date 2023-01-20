@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://www.cloudformdata.com/pusheencode.gif)
+### Hi there 👋 ![](https://www.cloudformdata.com/kirbyu.gif)
 
 <!--
 **natalia-codes/natalia-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
