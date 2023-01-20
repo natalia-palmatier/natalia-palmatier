@@ -1,5 +1,5 @@
 <h2> Hi, I'm Natalia Palmatier! <img src="kirbyu.gif" width="50"></h2>
-<img align='right' src="https://cloudformdata.com/halo.gif" width="230">
+<img align='right' src="halo.gif" width="230">
 <p><em>lvl 26 Software Enginner from Southern California </br>
 </em></p>
 
