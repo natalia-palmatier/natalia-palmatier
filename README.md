@@ -1,4 +1,5 @@
 ### Hi there 👋 ![](/kirbyu.gif)
+<img align='right' src="/kirbyu.gif" width="230">
 
 <!--
 **natalia-codes/natalia-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
