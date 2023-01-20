@@ -1,4 +1,5 @@
-### Hi there 👋 ![](/kirbyu.gif)
+### Hi, I'm Natalia Palmatier! 🤖 
+<!-- ![](/kirbyu.gif) -->
 <img align='right' src="/kirbyu.gif" width="230">
 
 <!--
