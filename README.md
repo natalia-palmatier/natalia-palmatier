@@ -1,6 +1,6 @@
 <h2> Hi, I'm Natalia Palmatier! <img src="kirbyu.gif" width="50"></h2>
 <img align='right' src="halo.gif" width="230">
-<p><em>lvl 26 Software Enginner from Southern California </br>
+<p><em>lvl 27 Software Enginner from Southern California </br>
 </em></p>
 
 [![Website: cloudformdata](https://img.shields.io/badge/-Portfolio-pink?style&logo=protonmail&logoColor=black&link=https://www.cloudformdata.com/)](https://www.cloudformdata.com/)
