@@ -6,7 +6,7 @@
 [![Website: cloudformdata](https://img.shields.io/badge/-Portfolio-pink?style&logo=protonmail&logoColor=black&link=https://www.cloudformdata.com/)](https://www.cloudformdata.com/)
 [![Medium: nataliap_51590](https://img.shields.io/badge/-Blog-black?style&logo=Medium&logoColor=white&link=https://www.medium.com/@nataliap_51590)](https://www.medium.com/@nataliap_51590)
 [![Linkedin: nataliapalmatier](https://img.shields.io/badge/-nataliapalmatier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-palmatier/)](https://www.linkedin.com/in/natalia-palmatier/)
-[![GitHub natalia-codes](https://img.shields.io/github/followers/natalia-codes?label=follow&style=social)](https://github.com/natalia-codes)
+[![GitHub natalia-palmatier](https://img.shields.io/github/followers/natalia-palmatier?label=follow&style=social)](https://github.com/natalia-palmatier)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
